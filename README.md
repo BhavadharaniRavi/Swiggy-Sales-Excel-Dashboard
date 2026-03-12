@@ -5,4 +5,5 @@ This project analyzes Swiggy sales data to understand revenue trends, customer b
 
 ## Dashboard
 ![Dashboard](Swiggy-dashboard.png)
-![Analysis 1](
+![Analysis 1](Swiggy%20analysis1.png)
+![Analysis 2](
