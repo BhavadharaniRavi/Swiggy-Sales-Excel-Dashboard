@@ -4,4 +4,5 @@
 This project analyzes Swiggy sales data to understand revenue trends, customer behavior, and regional performance. The Dashboard was built using Microsoft Excel with Pivot Tables, Pivot Charts, and slicers to create interactive visualizations.
 
 ## Dashboard
-![Dashboard](
+![Dashboard](Swiggy-dashboard.png)
+![Analysis 1](
